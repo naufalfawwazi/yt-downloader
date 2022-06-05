@@ -1,5 +1,5 @@
 # yt-downloader
-Sebuah aplikasi desktop dengan antarmuka GUI yang dibuat menggunakan bahasa pemrograman Python.
+Sebuah aplikasi desktop dengan antarmuka GUI yang dibuat menggunakan bahasa pemrograman Python yang berfungsi untuk mengunduh video serta musik dengan menggunakan tautan YouTube yang kemudian dapat disimpan ke directory yang diinginkan.
 
 ### Library dan module yang digunakan
 1. tkinter
